@@ -146,3 +146,12 @@
 
 * Interested readers can refer to the working code to have their own arbitrage bot: https://github.com/ExtropyIO/defi-bot.
 * Currently, the example only supports flash loans from dYdX. Users can add other flash loan provider’s support.
+
+<!-- fork-disclosure: CHENJIAMIAN -->
+## Fork Notice / 分叉说明
+
+- **Upstream / 上游**: [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot)
+- **Changes in this fork / 本 fork 改动**:
+  - English: This default branch has no functional fork-specific changes. The only intentional difference is this bilingual disclosure.
+  - 中文：该默认分支目前没有功能性的 fork 独有改动；唯一的刻意差异是本双语透明说明。
+- **Upstream state / 上游状态**: This branch may be behind upstream. Review the current [comparison](https://github.com/CHENJIAMIAN/defi-bot/compare/main...ExtropyIO/defi-bot:main) before relying on it. / 此分支可能落后于上游；使用前请查看当前[对比](https://github.com/CHENJIAMIAN/defi-bot/compare/main...ExtropyIO/defi-bot:main)。
