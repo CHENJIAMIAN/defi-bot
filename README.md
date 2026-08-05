@@ -1,3 +1,12 @@
+<!-- codex-github-rules:bilingual-summary -->
+> **中文简介**：构建 DeFi 套利机器人的教程
+
+> **English summary**: A tutorial for building DeFi arbitrage bots
+
+> **Fork 说明 / Fork note**：这是上游项目的公开 fork；下方保留并延续上游文档。
+
+---
+
 > ### TLDR:
 > * The author provides a detailed guide to coding a DeFi arbitrage bot. The bot uses flash loans to borrow assets from dYdX and sells them on 1inch exchange when profitable.
 
